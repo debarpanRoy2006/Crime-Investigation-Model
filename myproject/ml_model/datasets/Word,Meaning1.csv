@@ -1,0 +1,101 @@
+Word,Meaning
+Homicide,The unlawful killing of one person by another.
+Murder,Intentional killing of another person with premeditation.
+Manslaughter,Unintentional killing due to negligence or recklessness.
+Vehicular Manslaughter,Killing someone due to reckless driving.
+Assault,Physically attacking or threatening someone with harm.
+Battery,Physically harming another person with intent.                    
+Kidnapping,Unlawfully taking and confining a person against their will.
+Human Trafficking,"Forcing people into labor, sexual exploitation, or servitude."
+Rape,Non-consensual sexual intercourse through force or coercion.
+Sexual Assault,Any non-consensual sexual contact.
+Domestic Violence,Abuse or violence between intimate partners or family members.
+Child Abuse,"Physical, emotional, or sexual mistreatment of a child."
+Elder Abuse,"Physical, emotional, or financial abuse of elderly individuals."
+Stalking,Repeated harassment or unwanted attention causing fear.
+Arson,Intentionally setting fire to property.
+Burglary,Illegally entering a building with intent to commit a crime.
+Robbery,Using force or intimidation to steal from a person.
+Theft (Larceny),Unlawfully taking someone’s property.
+Grand Theft,Stealing property of high value (often above a legal threshold).
+Petty Theft,Stealing property of relatively low value.
+Carjacking,Forcibly stealing a vehicle from its owner.
+Vandalism,Destroying or defacing property intentionally.
+Extortion,Using threats or force to obtain money or services.
+Bribery,Offering money or favors to influence a public official.
+Fraud,Deception for financial or personal gain.
+Forgery,Falsifying documents or signatures for illegal gain.
+Embezzlement,Fraudulently taking money or assets entrusted to one’s care.
+Counterfeiting,"Creating fake currency, documents, or goods to deceive."
+Drug Trafficking,The illegal distribution and sale of controlled substances.
+Weapons Trafficking,Illegally selling or transporting firearms.
+Organized Crime,Criminal activities carried out by structured groups.
+Gang-Related Crime,Crimes committed as part of gang activity.
+Terrorism,Using violence or threats for political or ideological goals.
+Hate Crime,A crime motivated by prejudice against a specific group.
+Public Order Crime,"Acts that disrupt public peace, such as rioting."
+Loitering,Remaining in a public place without a lawful purpose.
+Trespassing,Entering someone’s property without permission.
+Animal Cruelty,Intentionally harming or neglecting animals.
+Environmental Crime,Violations of laws protecting natural resources.
+Corporate Crime,Illegal acts committed by a business or corporation.
+Denial of Service (DoS) Attack,Overloading a system to make it unavailable.
+Distributed Denial of Service (DDoS) Attack,A DoS attack using multiple computers.
+Botnet,A network of infected computers controlled by cybercriminals.
+Man-in-the-Middle (MitM) Attack,Intercepting communication between two parties.
+Ransomware Attack,Encrypting files and demanding payment for decryption.
+Trojan Horse,Malicious software disguised as a legitimate program.
+SQL Injection,Exploiting a website’s database vulnerability to steal data.
+Cross-Site Scripting (XSS),Injecting malicious scripts into trusted websites.
+Session Hijacking,Taking over a user’s session to gain unauthorized access.
+Credential Harvesting,Stealing login details through phishing or malware.
+DNS Hijacking,Redirecting users to fake websites by altering domain settings.
+Deepfake Manipulation,Using AI to create fake videos or images.
+SIM Swapping,Hijacking someone’s phone number to bypass security measures.
+Keystroke Logging,Tracking what a user types to steal credentials.
+Clickjacking,Tricking users into clicking hidden links.
+Watering Hole Attack,Infecting websites commonly visited by a target group.
+Zero-Day Exploit,Attacking a software vulnerability before it is patched.
+Malvertising,Distributing malware through online ads.
+Cryptomining Malware,Using a victim’s computer power to mine cryptocurrency.
+Eavesdropping Attack,Secretly intercepting data transmission.
+Digital Forensics,The process of collecting and analyzing electronic evidence.
+Disk Imaging,Creating a copy of a hard drive for forensic analysis.
+Network Forensics,Investigating network traffic for signs of cybercrime.
+Email Forensics,Analyzing email headers and content to track cybercriminals.
+Memory Forensics,Extracting volatile data from a computer’s memory.
+Mobile Device Forensics,Investigating digital evidence on mobile phones.
+IoT Forensics,Examining data from internet-connected devices.
+Log Analysis,Reviewing system logs to detect suspicious activity.
+Metadata Analysis,Examining file properties to track cybercriminal actions.
+Cloud Forensics,Investigating cybercrimes involving cloud storage services.
+Cyber Threat Intelligence Gathering,Collecting data on cybercriminal tactics.
+Hash Analysis,Comparing cryptographic hashes to detect altered files.
+File Carving,Recovering deleted files without relying on file system metadata.
+Timestamps Verification,Checking the date and time data was modified.
+Forensic Toolkit (FTK),A tool used for investigating cybercrime evidence.
+Autopsy Digital Forensics,An open-source tool for analyzing digital evidence.
+Volatility Framework,A tool for analyzing computer memory dumps.
+Wireshark,A tool for capturing and analyzing network packets.
+Blockchain Forensics,Tracking cryptocurrency transactions for illegal activities.
+Steganography Detection,Identifying hidden messages within digital files.
+Security Awareness Training,Educating employees on cyber threats.
+Cyber Hygiene,Regular practices to maintain digital security.
+Antivirus Software,Programs designed to detect and remove malware.
+Firewalls,Security systems that block unauthorized network access.
+Secure Coding Practices,Writing software with strong security measures.
+Network Segmentation,Dividing networks to limit the spread of cyberattacks.
+Patch Management,Regularly updating software to fix vulnerabilities.
+Strong Password Policies,Enforcing the use of complex passwords.
+Multi-Factor Authentication (MFA),Adding extra security layers to logins.
+Role-Based Access Control (RBAC),Granting permissions based on job roles.
+Incident Response Plan,A strategy for handling cybersecurity breaches.
+Zero Trust Security,A model where no one is automatically trusted.
+Threat Hunting,Proactively searching for cyber threats in a system.
+Endpoint Detection & Response (EDR),Advanced security monitoring tools.
+Dark Web Monitoring,Tracking stolen credentials and cyber threats online.
+Behavioral Analytics,Detecting cyber threats by analyzing user behavior.
+Data Loss Prevention (DLP),Tools that prevent unauthorized data transfer.
+Secure Cloud Storage,Protecting data stored in cloud environments.
+Cybersecurity Risk Assessment,Evaluating an organization's security posture.
+Phishing Simulation Training,Training employees to recognize phishing attempts.

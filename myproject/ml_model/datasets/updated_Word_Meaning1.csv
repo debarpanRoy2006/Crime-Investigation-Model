@@ -1,0 +1,101 @@
+word,meaning,website_online
+Homicide,The unlawful killing of one person by another.,https://www.legalserviceindia.com/
+Murder,Intentional killing of another person with premeditation.,https://www.legalserviceindia.com/
+Manslaughter,Unintentional killing due to negligence or recklessness.,https://www.legalserviceindia.com/
+Vehicular Manslaughter,Killing someone due to reckless driving.,https://www.legalserviceindia.com/
+Assault,Physically attacking or threatening someone with harm.,https://www.legalserviceindia.com/
+Battery,Physically harming another person with intent.                    ,https://www.legalserviceindia.com/
+Kidnapping,Unlawfully taking and confining a person against their will.,https://www.legalserviceindia.com/
+Human Trafficking,"Forcing people into labor, sexual exploitation, or servitude.",https://www.legalserviceindia.com/
+Rape,Non-consensual sexual intercourse through force or coercion.,https://www.legalserviceindia.com/
+Sexual Assault,Any non-consensual sexual contact.,https://www.legalserviceindia.com/
+Domestic Violence,Abuse or violence between intimate partners or family members.,https://www.legalserviceindia.com/
+Child Abuse,"Physical, emotional, or sexual mistreatment of a child.",https://www.legalserviceindia.com/
+Elder Abuse,"Physical, emotional, or financial abuse of elderly individuals.",https://www.legalserviceindia.com/
+Stalking,Repeated harassment or unwanted attention causing fear.,https://www.legalserviceindia.com/
+Arson,Intentionally setting fire to property.,https://www.legalserviceindia.com/
+Burglary,Illegally entering a building with intent to commit a crime.,https://www.legalserviceindia.com/
+Robbery,Using force or intimidation to steal from a person.,https://www.legalserviceindia.com/
+Theft (Larceny),Unlawfully taking someone’s property.,https://www.legalserviceindia.com/
+Grand Theft,Stealing property of high value (often above a legal threshold).,https://www.legalserviceindia.com/
+Petty Theft,Stealing property of relatively low value.,https://www.legalserviceindia.com/
+Carjacking,Forcibly stealing a vehicle from its owner.,https://www.legalserviceindia.com/
+Vandalism,Destroying or defacing property intentionally.,https://www.legalserviceindia.com/
+Extortion,Using threats or force to obtain money or services.,https://www.legalserviceindia.com/
+Bribery,Offering money or favors to influence a public official.,https://www.legalserviceindia.com/
+Fraud,Deception for financial or personal gain.,https://www.legalserviceindia.com/
+Forgery,Falsifying documents or signatures for illegal gain.,https://www.legalserviceindia.com/
+Embezzlement,Fraudulently taking money or assets entrusted to one’s care.,https://www.legalserviceindia.com/
+Counterfeiting,"Creating fake currency, documents, or goods to deceive.",https://www.legalserviceindia.com/
+Drug Trafficking,The illegal distribution and sale of controlled substances.,https://www.legalserviceindia.com/
+Weapons Trafficking,Illegally selling or transporting firearms.,https://www.legalserviceindia.com/
+Organized Crime,Criminal activities carried out by structured groups.,https://www.legalserviceindia.com/
+Gang-Related Crime,Crimes committed as part of gang activity.,https://www.legalserviceindia.com/
+Terrorism,Using violence or threats for political or ideological goals.,https://www.legalserviceindia.com/
+Hate Crime,A crime motivated by prejudice against a specific group.,https://www.legalserviceindia.com/
+Public Order Crime,"Acts that disrupt public peace, such as rioting.",https://www.legalserviceindia.com/
+Loitering,Remaining in a public place without a lawful purpose.,https://www.legalserviceindia.com/
+Trespassing,Entering someone’s property without permission.,https://www.legalserviceindia.com/
+Animal Cruelty,Intentionally harming or neglecting animals.,https://www.legalserviceindia.com/
+Environmental Crime,Violations of laws protecting natural resources.,https://www.legalserviceindia.com/
+Corporate Crime,Illegal acts committed by a business or corporation.,https://www.legalserviceindia.com/
+Denial of Service (DoS) Attack,Overloading a system to make it unavailable.,https://www.legalserviceindia.com/
+Distributed Denial of Service (DDoS) Attack,A DoS attack using multiple computers.,https://www.legalserviceindia.com/
+Botnet,A network of infected computers controlled by cybercriminals.,https://www.legalserviceindia.com/
+Man-in-the-Middle (MitM) Attack,Intercepting communication between two parties.,https://www.legalserviceindia.com/
+Ransomware Attack,Encrypting files and demanding payment for decryption.,https://www.legalserviceindia.com/
+Trojan Horse,Malicious software disguised as a legitimate program.,https://www.legalserviceindia.com/
+SQL Injection,Exploiting a website’s database vulnerability to steal data.,https://www.legalserviceindia.com/
+Cross-Site Scripting (XSS),Injecting malicious scripts into trusted websites.,https://www.legalserviceindia.com/
+Session Hijacking,Taking over a user’s session to gain unauthorized access.,https://www.legalserviceindia.com/
+Credential Harvesting,Stealing login details through phishing or malware.,https://www.legalserviceindia.com/
+DNS Hijacking,Redirecting users to fake websites by altering domain settings.,https://www.legalserviceindia.com/
+Deepfake Manipulation,Using AI to create fake videos or images.,https://www.legalserviceindia.com/
+SIM Swapping,Hijacking someone’s phone number to bypass security measures.,https://www.legalserviceindia.com/
+Keystroke Logging,Tracking what a user types to steal credentials.,https://www.legalserviceindia.com/
+Clickjacking,Tricking users into clicking hidden links.,https://www.legalserviceindia.com/
+Watering Hole Attack,Infecting websites commonly visited by a target group.,https://www.legalserviceindia.com/
+Zero-Day Exploit,Attacking a software vulnerability before it is patched.,https://www.legalserviceindia.com/
+Malvertising,Distributing malware through online ads.,https://www.legalserviceindia.com/
+Cryptomining Malware,Using a victim’s computer power to mine cryptocurrency.,https://www.legalserviceindia.com/
+Eavesdropping Attack,Secretly intercepting data transmission.,https://www.legalserviceindia.com/
+Digital Forensics,The process of collecting and analyzing electronic evidence.,https://www.legalserviceindia.com/
+Disk Imaging,Creating a copy of a hard drive for forensic analysis.,https://www.legalserviceindia.com/
+Network Forensics,Investigating network traffic for signs of cybercrime.,https://www.legalserviceindia.com/
+Email Forensics,Analyzing email headers and content to track cybercriminals.,https://www.legalserviceindia.com/
+Memory Forensics,Extracting volatile data from a computer’s memory.,https://www.legalserviceindia.com/
+Mobile Device Forensics,Investigating digital evidence on mobile phones.,https://www.legalserviceindia.com/
+IoT Forensics,Examining data from internet-connected devices.,https://www.legalserviceindia.com/
+Log Analysis,Reviewing system logs to detect suspicious activity.,https://www.legalserviceindia.com/
+Metadata Analysis,Examining file properties to track cybercriminal actions.,https://www.legalserviceindia.com/
+Cloud Forensics,Investigating cybercrimes involving cloud storage services.,https://www.legalserviceindia.com/
+Cyber Threat Intelligence Gathering,Collecting data on cybercriminal tactics.,https://www.legalserviceindia.com/
+Hash Analysis,Comparing cryptographic hashes to detect altered files.,https://www.legalserviceindia.com/
+File Carving,Recovering deleted files without relying on file system metadata.,https://www.legalserviceindia.com/
+Timestamps Verification,Checking the date and time data was modified.,https://www.legalserviceindia.com/
+Forensic Toolkit (FTK),A tool used for investigating cybercrime evidence.,https://www.legalserviceindia.com/
+Autopsy Digital Forensics,An open-source tool for analyzing digital evidence.,https://www.legalserviceindia.com/
+Volatility Framework,A tool for analyzing computer memory dumps.,https://www.legalserviceindia.com/
+Wireshark,A tool for capturing and analyzing network packets.,https://www.legalserviceindia.com/
+Blockchain Forensics,Tracking cryptocurrency transactions for illegal activities.,https://www.legalserviceindia.com/
+Steganography Detection,Identifying hidden messages within digital files.,https://www.legalserviceindia.com/
+Security Awareness Training,Educating employees on cyber threats.,https://www.legalserviceindia.com/
+Cyber Hygiene,Regular practices to maintain digital security.,https://www.legalserviceindia.com/
+Antivirus Software,Programs designed to detect and remove malware.,https://www.legalserviceindia.com/
+Firewalls,Security systems that block unauthorized network access.,https://www.legalserviceindia.com/
+Secure Coding Practices,Writing software with strong security measures.,https://www.legalserviceindia.com/
+Network Segmentation,Dividing networks to limit the spread of cyberattacks.,https://www.legalserviceindia.com/
+Patch Management,Regularly updating software to fix vulnerabilities.,https://www.legalserviceindia.com/
+Strong Password Policies,Enforcing the use of complex passwords.,https://www.legalserviceindia.com/
+Multi-Factor Authentication (MFA),Adding extra security layers to logins.,https://www.legalserviceindia.com/
+Role-Based Access Control (RBAC),Granting permissions based on job roles.,https://www.legalserviceindia.com/
+Incident Response Plan,A strategy for handling cybersecurity breaches.,https://www.legalserviceindia.com/
+Zero Trust Security,A model where no one is automatically trusted.,https://www.legalserviceindia.com/
+Threat Hunting,Proactively searching for cyber threats in a system.,https://www.legalserviceindia.com/
+Endpoint Detection & Response (EDR),Advanced security monitoring tools.,https://www.legalserviceindia.com/
+Dark Web Monitoring,Tracking stolen credentials and cyber threats online.,https://www.legalserviceindia.com/
+Behavioral Analytics,Detecting cyber threats by analyzing user behavior.,https://www.legalserviceindia.com/
+Data Loss Prevention (DLP),Tools that prevent unauthorized data transfer.,https://www.legalserviceindia.com/
+Secure Cloud Storage,Protecting data stored in cloud environments.,https://www.legalserviceindia.com/
+Cybersecurity Risk Assessment,Evaluating an organization's security posture.,https://www.legalserviceindia.com/
+Phishing Simulation Training,Training employees to recognize phishing attempts.,https://www.legalserviceindia.com/

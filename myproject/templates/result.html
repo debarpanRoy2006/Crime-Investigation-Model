@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Get Solutions Page </title>
+
+  <script src="https://kit.fontawesome.com/47101d2035.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+      .center {
+        position: absolute;
+        text-align: center;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(230, 239, 245);
+      }
+   
+        body{
+           background-image: url("result.jpg");
+           background-size: cover;
+           background-repeat: no-repeat;
+   
+       }
+       .container{
+          background-color: rgb(230, 239, 245);
+          padding: 20px;
+          border-radius: 10px;
+        }
+  
+  
+   
+    </style>
+  </head>
+<body class=center>
+  <div class="container">
+    <h1 style="color:rgb(47, 47, 126); font-weight: 700;">Crime Classification Result</h1>
+    <p><strong>Category:</strong> {{ category }}</p>
+    <p><strong>Section:</strong> {{ section }}</p>
+    <p><strong>IPC:</strong> {{ ipc }}</p>
+    <p><strong>Punishment:</strong> {{ punishment }}</p>
+    <p><strong>Steps to Take:</strong> {{ steps }}</p>
+
+    <a  class="btn btn-primary btn-lg btn-block" href="index.html">Go Back</a>
+  </div>
+  </body>
+</html>
+
